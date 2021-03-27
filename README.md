@@ -1,2 +1,2 @@
 # Hippochus
-Personal Bot for my Discord's Server
+Personal Bot for my Discord Server
